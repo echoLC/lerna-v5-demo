@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/echoLC/lerna-v5-demo/compare/ee-cli@0.0.4...ee-cli@0.1.0) (2022-08-21)
+
+
+### Features
+
+* ee-cli use ee-core log method ([e103309](https://github.com/echoLC/lerna-v5-demo/commit/e103309e9c0772bf0ba88b723da434e6d0ca06af))
+
+
+
+
+
 ## [0.0.4](https://github.com/echoLC/lerna-v5-demo/compare/ee-cli@0.0.3...ee-cli@0.0.4) (2022-08-21)
 
 
