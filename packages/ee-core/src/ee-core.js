@@ -3,6 +3,6 @@ export default function eeCore() {
   return 'Hello from eeCore'
 }
 
-export function log(message) {
-  console.log(message)
+export function log(message, type = 'log') {
+  console[type](message)
 }
