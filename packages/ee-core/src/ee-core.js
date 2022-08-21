@@ -1,4 +1,8 @@
 export default function eeCore() {
-  console.log('eeCore log')
+  log('eeCore log')
   return 'Hello from eeCore'
+}
+
+function log(message) {
+  console.log(message)
 }

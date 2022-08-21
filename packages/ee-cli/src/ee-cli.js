@@ -1,3 +1,4 @@
 export default function eeCli() {
-    return "Hello from eeCli";
+  console.log('eeCli log')
+  return 'Hello from eeCli'
 }
