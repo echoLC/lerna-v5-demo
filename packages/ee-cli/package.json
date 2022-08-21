@@ -20,6 +20,6 @@
   "scripts": {},
   "type": "module",
   "dependencies": {
-    "sl-ee-core": "^0.2.1"
+    "sl-ee-core": "^0.3.1"
   }
 }
