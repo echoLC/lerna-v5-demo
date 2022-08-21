@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "luochao <luochao@joyy.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "ee-cli.js",
   "directories": {
     "lib": "src",
