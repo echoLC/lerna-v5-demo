@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/echoLC/lerna-v5-demo/compare/ee-core@0.1.0...ee-core@0.2.0) (2022-08-21)
+
+
+### Features
+
+* ee-core log support type param ([e3e4b2f](https://github.com/echoLC/lerna-v5-demo/commit/e3e4b2f954cf3aebf35b013bac736005537deb37))
+
+
+
+
+
 # [0.1.0](https://github.com/echoLC/lerna-v5-demo/compare/ee-core@0.0.4...ee-core@0.1.0) (2022-08-21)
 
 

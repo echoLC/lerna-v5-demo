@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/echoLC/lerna-v5-demo/compare/ee-cli@0.1.0...ee-cli@0.1.1) (2022-08-21)
+
+**Note:** Version bump only for package ee-cli
+
+
+
+
+
 # [0.1.0](https://github.com/echoLC/lerna-v5-demo/compare/ee-cli@0.0.4...ee-cli@0.1.0) (2022-08-21)
 
 
