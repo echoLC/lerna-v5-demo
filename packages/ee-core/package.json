@@ -1,0 +1,21 @@
+{
+  "name": "ee-core",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "luochao <luochao@joyy.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/ee-core.js",
+  "module": "dist/ee-core.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/ee-core.test.js"
+  },
+  "type": "module"
+}

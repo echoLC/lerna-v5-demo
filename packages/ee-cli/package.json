@@ -1,0 +1,24 @@
+{
+  "name": "ee-cli",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "luochao <luochao@joyy.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/ee-cli.js",
+  "module": "dist/ee-cli.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/ee-cli.test.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "ee-core": "^0.0.1"
+  }
+}
