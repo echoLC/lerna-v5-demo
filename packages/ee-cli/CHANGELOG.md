@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/echoLC/lerna-v5-demo/compare/sl-ee-cli@0.2.2...sl-ee-cli@0.2.3) (2022-08-21)
+
+
+### Bug Fixes
+
+* upgrade ee-core version ([adc3d2f](https://github.com/echoLC/lerna-v5-demo/commit/adc3d2f83485eef10717bbe42425ededbeee84e4))
+
+
+
+
+
 ## [0.2.2](https://github.com/echoLC/lerna-v5-demo/compare/sl-ee-cli@0.2.1...sl-ee-cli@0.2.2) (2022-08-21)
 
 
