@@ -6,5 +6,10 @@
   ],
   "devDependencies": {
     "lerna": "^5.4.3"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap --use-workspaces",
+    "release:version": "git pull origin master && lerna version --conventional-commits",
+    "release:publish": "lerna publish from-git --yes"
   }
 }
