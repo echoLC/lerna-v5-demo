@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/echoLC/lerna-v5-demo/compare/sl-ee-cli@0.2.0...sl-ee-cli@0.2.1) (2022-08-21)
+
+
+### Bug Fixes
+
+* modify log type ([f0b06ea](https://github.com/echoLC/lerna-v5-demo/commit/f0b06ead09ecb78ceff421ef7055a20d26276b10))
+
+
+
+
+
 # 0.2.0 (2022-08-21)
 
 
