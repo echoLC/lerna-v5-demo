@@ -1,6 +1,6 @@
 import { log } from 'ee-core'
 
 export default function eeCli() {
-  log('eeCli log', 'info')
+  log('eeCli log', 'log')
   return 'Hello from eeCli'
 }

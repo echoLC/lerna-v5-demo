@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     tags:
-      - 'ee-cli@**'
+      - 'sl-ee-cli@**'
 
 jobs:
   release:
