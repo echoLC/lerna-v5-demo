@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/echoLC/lerna-v5-demo/compare/ee-cli@0.1.1...ee-cli@0.1.2) (2022-08-21)
+
+
+### Bug Fixes
+
+* modify ee-cli log type ([39981d6](https://github.com/echoLC/lerna-v5-demo/commit/39981d65946b7b488b6e20d2562fb8c101e40921))
+
+
+
+
+
 ## [0.1.1](https://github.com/echoLC/lerna-v5-demo/compare/ee-cli@0.1.0...ee-cli@0.1.1) (2022-08-21)
 
 **Note:** Version bump only for package ee-cli
