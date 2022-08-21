@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/echoLC/lerna-v5-demo/compare/sl-ee-cli@0.2.1...sl-ee-cli@0.2.2) (2022-08-21)
+
+
+### Bug Fixes
+
+* ee-core log add type param validate ([7e13834](https://github.com/echoLC/lerna-v5-demo/commit/7e1383474cbee01c4893447da28a41ddb6791b55))
+
+
+
+
+
 ## [0.2.1](https://github.com/echoLC/lerna-v5-demo/compare/sl-ee-cli@0.2.0...sl-ee-cli@0.2.1) (2022-08-21)
 
 
