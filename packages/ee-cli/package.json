@@ -1,6 +1,6 @@
 {
   "name": "ee-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "luochao <luochao@joyy.com>",
   "homepage": "",
@@ -16,6 +16,6 @@
   "scripts": {},
   "type": "module",
   "dependencies": {
-    "ee-core": "^0.0.2"
+    "ee-core": "^0.0.3"
   }
 }
